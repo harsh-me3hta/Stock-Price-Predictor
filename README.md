@@ -55,6 +55,11 @@ plotly>=5.10.0
    python stock_predictor.py
    ```
 
+<img width="1919" height="955" alt="Image" src="https://github.com/user-attachments/assets/ffd39260-9440-44da-ad32-7ee9f415d474" />
+   <img width="1919" height="938" alt="Image" src="https://github.com/user-attachments/assets/e9537461-add7-4bc9-973a-4106da6d6bc5" />
+<img width="1919" height="718" alt="Image" src="https://github.com/user-attachments/assets/1a57fd60-4e62-4395-b427-ea89a4f36261" />
+
+
 ## 🎨 Features
 
 - **Responsive Design**: Works on desktop and mobile
