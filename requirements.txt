@@ -1,0 +1,9 @@
+gradio 
+yfinance 
+pandas 
+numpy 
+matplotlib 
+scikit-learn 
+tensorflow 
+plotly 
+python-dateutil 
